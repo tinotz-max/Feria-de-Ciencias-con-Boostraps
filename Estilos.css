@@ -1,0 +1,45 @@
+.titulo{
+    background-color: rgb(224, 231, 124);
+    text-align: center;
+    margin: 20px;
+}
+#contenidotitulo{background-color: antiquewhite;}
+h1{color: rgb(235, 195, 142);}
+#cotenidoTitulo{background:black;}
+h1{color:white;}
+.menuPrincipal{
+    height: 150px;
+    padding: 17px;
+    margin: 20px;
+    }
+    #contenido{background:rgb(161, 219, 94);}
+    a{color: rgb(12, 4, 4);}
+.titulo2{
+    background-color:rgb(45, 194, 144);
+    margin: 20px;
+}
+    #cotenidoTitulo{background:rgb(75, 207, 219);}
+    h2{color:rgb(0, 0, 0);}
+.video{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 125vh;
+    }
+    .links {
+        color: #007bff;
+        text-decoration: none;
+        font-size: 20px; /* Tamaño de fuente más grande */
+        font-family: Arial, sans-serif; /* Fuente legible y común */
+        font-weight: bold; /* Texto en negrita para destacar */
+        background-color: #f0f0f0; /* Fondo ligeramente gris para resaltar */
+        padding: 10px; /* Espacio alrededor del texto */
+        border-radius: 5px; /* Bordes redondeados para un aspecto más suave */
+        transition: all 0.3s ease-in-out; /* Transición suave al pasar el mouse */
+      }
+    
+      a:hover {
+        background-color: #e0e0e0;
+        transform: scale(1.05); /* Aumento de tamaño al pasar el mouse */
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3); /* Sombra para un efecto 3D */
+      }
